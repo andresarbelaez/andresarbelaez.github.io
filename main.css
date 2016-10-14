@@ -31,7 +31,7 @@ li {
 
 li a {
     display: block;
-    color: #f79f79;
+    color: #f79;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -40,7 +40,7 @@ li a {
 
 li a:hover {
     text-decoration: none;
-    color: #f79f79;
+    color: #f79;
    /*background-color: #f79f79;
    color: #ffffff;*/
 }
@@ -74,19 +74,19 @@ li a:hover {
 }
 
 .internalLink:hover{
-    color:#999999;
+    color:#999;
     text-decoration: none;
 }
 
 #hello{
     text-decoration: none;
-    color: #f79f79;
+    color: #f79;
 }
 
 .logo a{
     text-decoration:none;
     font-size: 20px;
-    color: #f79f79;
+    color: #f79;
 }
 .logo a:hover{
     text-decoration: none;
@@ -115,7 +115,7 @@ li a:hover {
 }
 .button{
     background-color: #ffffff;
-    color: #f79f79;
+    color: #f79;
     padding: 20px;
     text-decoration: none;
     display: inline-block;
@@ -127,7 +127,7 @@ li a:hover {
    // background-image: url('IMG_0157.jpg');
     background-attachment: fixed;
     background-size:cover;
-   background-color: #1d2120;
+   background-color: #1d2;
     color: #ffffff;
 }
 .well{
