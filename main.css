@@ -1,6 +1,6 @@
 body{
     font-family: "Trebuchet MS",Helvetica,sans-serif;
-    text-align: center;
+    text-align: left;
 /*    background-color: #082430;*/
     background-color: #ffffff;
 }
@@ -56,7 +56,7 @@ li a:hover {
 
 .jumbotron{
     display: flex;
-    text-align: center;
+    text-align: left;
     /*height: 100vh;
     background-image: url("white.jpg");*/
     /*background-color: #474747;*/
