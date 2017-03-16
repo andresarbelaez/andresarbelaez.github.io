@@ -91,6 +91,14 @@ li a:hover {
     color: #f79f79;
 }
 
+#resume {
+    margin-right: 50px;
+}
+
+#portfolio {
+    margin-left: 50px;
+}
+
 .fa {
     color: #4aabe0;
     margin: 10px;
