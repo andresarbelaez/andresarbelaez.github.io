@@ -64,13 +64,13 @@ li a:hover {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    color: #082430;
+    color: #999999;
 }
 #me{
     position: center;
 }
 .internalLink{
-    color: #f79f79;
+    color: #4aabe0;
     text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ li a:hover {
 #hello{
     text-decoration: none;
     position: center;
-    color: #082430;
+    color: #f79f79;
 }
 
 .logo a{
