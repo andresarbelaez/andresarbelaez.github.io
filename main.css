@@ -1,6 +1,7 @@
 body{
     font-family: "Trebuchet MS",Helvetica,sans-serif;
-    text-align: left;
+    text-align: center;
+/*    background-color: #082430;*/
     background-color: #ffffff;
 }
 
@@ -55,21 +56,21 @@ li a:hover {
 
 .jumbotron{
     display: flex;
-    text-align: left;
+    text-align: center;
     /*height: 100vh;
     background-image: url("white.jpg");*/
-    background-color: #ffffff;
+    /*background-color: #474747;*/
     background-size:cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    color: #999999;
+    color: #082430;
 }
 #me{
     position: center;
 }
 .internalLink{
-    color: #62bcfa;
+    color: #f79f79;
     text-decoration: none;
 }
 
@@ -80,7 +81,7 @@ li a:hover {
 
 #hello{
     text-decoration: none;
-    color: #f79f79;
+    color: #082430;
 }
 
 .logo a{
@@ -110,7 +111,7 @@ li a:hover {
 .row1{
     display:flex;
     align-items: center;
-    background-color: #e3e3e3;
+    background-color: #ffffff;
     color: #607d8b;
 }
 .button{
