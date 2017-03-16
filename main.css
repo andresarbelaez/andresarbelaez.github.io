@@ -1,6 +1,7 @@
 body{
     font-family: "Trebuchet MS",Helvetica,sans-serif;
-    text-align: center;
+    text-align: left;
+    color: #999999;
     background-color: #ffffff;
     overflow: hidden;
 }
@@ -51,6 +52,8 @@ li a:hover {
 }
 
 .jumbo {
+    padding-top: 0px;
+    padding-bottom: 0px;
     display: flex;
     text-align: left;
     /*height: 100vh;
@@ -88,10 +91,14 @@ li a:hover {
     color: #f79f79;
 }
 
+.fa {
+    color: #f79f79;
+}
+
 .icon {
     text-align: center;
     position: center;
-    color: f79f79;
+    color: #f79f79;
 }
 
 .logo a{
