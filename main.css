@@ -1,17 +1,9 @@
 body{
     font-family: "Trebuchet MS",Helvetica,sans-serif;
     text-align: center;
-/*    background-color: #082430;*/
     background-color: #ffffff;
+    overflow: hidden;
 }
-
-#footer{
-    font-size: 18px;
-    background-color: #e8edf3;
-}
-/*
-
-*/
 
 header{
     background-color: #ffffff;
@@ -55,7 +47,6 @@ li a:hover {
 }
 
 .heading {
-
     text-align: center;
 }
 
@@ -64,27 +55,30 @@ li a:hover {
     text-align: left;
     /*height: 100vh;
     background-image: url("white.jpg");*/
-    /*background-color: #474747;*/
+    background-color: #ffffff;
     background-size:cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     color: #999999;
 }
+
 .image {
     text-align: center;
 }
+
 #me{
     text-align: center;
     text-decoration: none;
 }
+
 .internalLink{
     color: #4aabe0;
     text-decoration: none;
 }
 
 .internalLink:hover{
-    color:#999999;
+    color:#f79f79;
     text-decoration: none;
 }
 
@@ -94,8 +88,9 @@ li a:hover {
     color: #f79f79;
 }
 
-.fa {
-
+.icons {
+    text-align: center;
+    position: center;
     color: f79f79;
 }
 
