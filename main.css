@@ -1,6 +1,6 @@
 body{
     font-family: "Trebuchet MS",Helvetica,sans-serif;
-    text-align: left;
+    text-align: center;
 /*    background-color: #082430;*/
     background-color: #ffffff;
 }
@@ -54,6 +54,11 @@ li a:hover {
      top:180px; 
 }
 
+.heading {
+
+    text-align: center;
+}
+
 .jumbotron{
     display: flex;
     text-align: left;
@@ -66,8 +71,12 @@ li a:hover {
     background-position: center;
     color: #999999;
 }
+.image {
+    text-align: center;
+}
 #me{
-    position: center;
+    text-align: center;
+    text-decoration: none;
 }
 .internalLink{
     color: #4aabe0;
@@ -81,8 +90,13 @@ li a:hover {
 
 #hello{
     text-decoration: none;
-    position: center;
+    text-align: center;
     color: #f79f79;
+}
+
+.fa {
+
+    color: f79f79;
 }
 
 .logo a{
