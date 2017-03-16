@@ -93,6 +93,11 @@ li a:hover {
 
 .fa {
     color: #f79f79;
+    padding-right: 10px;
+}
+
+.icons {
+    text-align: center;
 }
 
 .icon {
