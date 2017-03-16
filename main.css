@@ -81,6 +81,7 @@ li a:hover {
 
 #hello{
     text-decoration: none;
+    position: center;
     color: #082430;
 }
 
