@@ -98,19 +98,19 @@ li a:hover {
     margin: 10px;
 }
 
-#email{
+#email:hover{
     color: #4aabe0;
 }
 
-#github{
+#github:hover{
     color: #333;
 }
 
-#linkedin{
+#linkedin:hover{
     color: #0077b5;
 }
 
-#facebook{
+#facebook:hover{
     color: #3b5998;
 }
 
