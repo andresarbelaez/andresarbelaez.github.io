@@ -125,12 +125,10 @@ li a:hover {
 .icon {
     text-align: center;
     position: center;
-    color: #4aabe0;
 }
 
 .icon:hover{
     text-decoration: none;
-    color: #f79f79;
 }
 
 .logo a{
