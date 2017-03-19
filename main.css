@@ -94,8 +94,24 @@ li a:hover {
 
 
 .fa {
-    color: #4aabe0;
+    color: #999999;
     margin: 10px;
+}
+
+#email{
+    color: #4aabe0;
+}
+
+#github{
+    color: #333;
+}
+
+#linkedin{
+    color: #0077b5;
+}
+
+#facebook{
+    color: #3b5998;
 }
 
 .fa:hover{
